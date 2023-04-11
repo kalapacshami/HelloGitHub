@@ -7,6 +7,8 @@ namespace HelloGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //alma
+            //körte
         }
     }
 }
